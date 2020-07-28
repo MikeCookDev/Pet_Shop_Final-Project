@@ -1,0 +1,30 @@
+
+body {
+    padding-top: 50px;
+  }
+  
+  
+  .sub-header {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .navbar-fixed-top {
+    border: 0;
+  }
+  
+  #editheader {
+      display: none;
+  }
+  
+  #breedselect {
+      display: none;
+  }
+  
+  #savebutton {
+      display: none;
+  }
+  
+  #cancelbutton {
+      display: none;
+  }

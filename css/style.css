@@ -1,0 +1,180 @@
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.navadjust {
+	background: #0a0a0a;
+	margin-bottom: 0px; 
+}
+
+#branding {
+	font-family: 'Poppins', sans-serif;
+	font-weight: normal;	
+	font-size: 250%;
+	color: #487fc0;
+}
+
+#branding em {
+	color: #487fc0;
+	font-style: normal;
+}
+
+a {
+	color: #7b05c9;
+}
+
+.buttoncolor {
+	background: #487fc0;
+	color: #fff;
+}
+
+.navbar-header .navbar-toggle .icon-bar {
+	background-color: #9d9d9d;
+}
+
+.navbar-inverse .navbar-toggle {
+	border-color: #9d9d9d;
+}
+
+.navbar-inverse .navbar-collapse {
+	border: none;
+}
+
+.active  a {
+	font-weight: bold;
+	color: #487fc0;
+}
+
+
+.jumbotron {
+	height: 80%;
+	background-image: url('../images/pets.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+}
+
+.jumbotron  .container h1 {
+	text-align: center;
+	margin: auto;
+	padding-top: 20%;
+	padding-bottom: 10%;
+	color: #487fc0;
+}
+
+h2 {
+	color: #487fc0; 
+}
+
+
+
+
+/* ------------ Contact Modal */
+
+.modal-header {
+	background-color: #487fc0; 
+	color: white;
+}
+
+.modal-header button {
+	color: white;
+}
+
+/* ---------- Grooming Page CSS */
+
+#breedselect {
+	display: none;
+}
+
+.groominginfo {
+	font-size: 1.5em;
+}
+
+.appointment {
+	margin-top: 2em;
+	background-color: #E8E6E6;
+}
+
+
+.form-control option:first-child{
+	color: #E8E6E6;
+}
+
+/* -------------- Contact Us CSS */
+
+.validate-redlight {
+	color: #a94442;
+}
+
+/* -------------- Store Location CSS */
+
+.about {
+	padding: 1.5em;
+}
+
+/* -------------- Store Location CSS */
+
+#map {
+	width: 100%;
+	height: 400px; 
+
+}
+
+
+.directions {
+	margin: 1em 0.5em 1em 0.5em;
+	padding: 0.5em 1.5em;
+	font-size: 100%;
+	color: #fff;
+	border: 1px solid #487fc0;
+	border-radius: 10px;
+	background-color: #487fc0;
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+  }
+
+.address {
+	font-size: 125%;
+	padding-top: 5%;
+}
+
+.img-center {
+	margin: auto;
+	width: auto;
+	padding-left: 15%;
+}
+
+
+
+/* -------------- Footer CSS */
+
+footer .table {
+	text-align: center;
+	font-size: 0.8em;
+	color: gray;
+	max-width: 500px;
+	margin: auto;
+}
+
+footer .table tr td {
+	border: none;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
+}
+
+footer .table tr:first-child {
+	font-weight: bold;
+	color: #487fc0;
+}
+
+footer p {
+	font-size: 0.6em;
+	text-align: center;
+	padding-top: 4em;
+	color: #f2f2f2;
+}
